@@ -208,4 +208,4 @@ Cyberduck is offered as a complete free version with all features and updates in
 Ready to enhance your file transfer experience? Download Cyberduck now for a seamless, secure, and efficient solution!
 
 ---
-**Last updated:** 2026-09-28 10:44:25 UTC
+**Last updated:** 2026-09-28 18:29:51 UTC
